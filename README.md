@@ -1,17 +1,6 @@
-# XiaomerroOS
-XiaomerroOS - custom gaming ROM special for Xiaomi Redmi Note 9 3GB RAM(merlinnfc)
+Hi ! 
+Im Ferro,
+FerroART 
+And this is my (crap xd) website
 
-Specjalnie zmodyfikowana wersja oprogramowania
-Dedykowanego tylko dla urządzeń Xiaomi Redmi Note 9
-
-
-Co nowego?
-
-(Opis w czasie tworzenia)
-
-
-Changelog:
-
-XiaomerroOS-Beta10.05.2022
-
-- powstanie
+NieznanyNikomu.github.io/FerroART
